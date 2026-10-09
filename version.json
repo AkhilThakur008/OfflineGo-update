@@ -1,4 +1,11 @@
 {
   "version": "1.0.2",
-  "updateUrl": "https://github.com/AkhilThakur008/OfflineGo-update/releases/download/1.0.2/OfflineGo_1.0.2.apk"
+  "updateUrl": "https://github.com/AkhilThakur008/OfflineGo-update/releases/download/1.0.2/OfflineGo_1.0.2.apk",
+  "maps": {
+    "Punjab": {
+      "version": 1,
+      "size": "120 MB",
+      "zipUrl": "https://github.com/AkhilThakur008/OfflineGo-update/releases/latest/download/punjab-tiles.zip"
+    }
+  }
 }
